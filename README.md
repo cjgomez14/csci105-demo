@@ -2,3 +2,5 @@
 
 This project tracks my Git practice.
 
+Testing branch switching.
+
